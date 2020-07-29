@@ -1,0 +1,13 @@
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.csprojAssemblyReference.cache
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.csproj.CoreCompileInputs.cache
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.AssemblyInfoInputs.cache
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.AssemblyInfo.cs
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.exe
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.deps.json
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.runtimeconfig.json
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.runtimeconfig.dev.json
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.dll
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.pdb
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.dll
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.pdb
+D:\SEMESTER II\PEMROGRAMAN\LAP UAS\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.genruntimeconfig.cache
